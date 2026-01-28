@@ -31,7 +31,7 @@ An advanced tool for dumping and analyzing IL2CPP metadata from Unity games and 
 ### Building from Source
 
 ```bash
-git clone https://github.com/yourusername/enhanced-il2cpp-dumper.git
+git clone https://github.com/axios-xiazy/il2cpp-zig.git
 cd enhanced-il2cpp-dumper
 mkdir build && cd build
 cmake ..
